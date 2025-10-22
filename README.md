@@ -63,3 +63,29 @@ int main() {
 
 	return 0;
 }
+```
+
+## Exemplo de Execução
+```c
+Informe a 1a idade: 20 
+Deseja continuar? (s/n): s 
+Informe a 2a idade: 17 
+Deseja continuar? (s/n): s 
+Informe a 3a idade: 42 
+Deseja continuar? (s/n): n 
+
+Pares: 20 
+Pares: 42 
+Impares: 17 
+```
+## Conceitos Utilizados
+
+- Declaração e uso de vetores (arrays)
+
+- Estruturas de repetição do...while e for
+
+- Estruturas condicionais if...else
+
+- Operador módulo % para verificar se um número é par ou ímpar
+
+- Contadores de quantidade (qtdPares, qtdImpares)
